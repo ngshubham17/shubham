@@ -15,6 +15,7 @@ public class ElderOrNot {
 		else
 		{
 			System.out.println("You are not elder");
+			System.out.println("You are not an elder");
 		}
 	}
 
